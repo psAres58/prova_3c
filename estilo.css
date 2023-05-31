@@ -3,6 +3,7 @@ body{
      background:linear-gradient(90deg, Red, Orange, Yellow, Green, Blue, Indigo,violet);
 }
 h1{
+      font-family: Arial;
       color: white;
 }
 h1:hover{
