@@ -1,6 +1,11 @@
 body{
 
      background:linear-gradient(90deg, Red, Orange, Yellow, Green, Blue, Indigo,violet);
-     width:500px;
-      height:500px;
+}
+h1{
+      color: white;
+}
+h1:hover{
+      color:pink;
+      cursor: pointer;
 }
