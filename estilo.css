@@ -3,10 +3,23 @@ body{
      background:linear-gradient(90deg, Red, Orange, Yellow, Green, Blue, Indigo,violet);
 }
 h1{
+      text-align: center;
       font-family: Arial;
-      color: white;
+      color: rgb(0, 0, 0);
+      margin-top: 7%;
+      
 }
 h1:hover{
       color:pink;
       cursor: pointer;
+}
+form{
+ text-align: center;
+ margin-top: 0.2%;
+}
+.box-parent-login{
+      background-color: white;
+}
+fieldset{
+   size: 50%;
 }
